@@ -20,4 +20,4 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 ## 🔍 Referências 
 - [Digital Innovation One](https://www.dio.me/)
 - [Site Visual Studio Code](https://code.visualstudio.com/)
-- [Oracle](https://www.oracle.com/br/java/)
+- [Site Oracle Br](https://www.oracle.com/br/java/)
