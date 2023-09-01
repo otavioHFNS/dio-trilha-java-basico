@@ -9,6 +9,9 @@ public class Usuario{
     public static void main(String[] args) {
                 
         SmarTv smarTv = new SmarTv();
+        
+                smarTv.MudarCanal(13);
+                System.out.println("Canal Atual: " + smarTv.canal);
 
         System.out.println("A TV ligada? " + smarTv.ligada);
         System.out.println("Canal Atual: " + smarTv.canal);
@@ -20,8 +23,5 @@ public class Usuario{
         smarTv.AumenVolu();
         smarTv.AumenVolu();
         System.out.println("New Status: Volume atual: " + smarTv.volume);
-
-        smarTv.MudarCanal(13);
-        System.out.println("Canal Atual: " + smarTv.canal);
     }
 }
