@@ -15,7 +15,10 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 |Exercicio 01|SmartTv | [Acesso aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/SISTEMA-SMAR-TV)|
 |Exercicio 02|Terminal Java | [Acesso aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/Terminal-java)|
 
-
+## 👨‍💻 Desafio de Projeto DIO
+|Desafio| Repositório|
+|-------|------------|
+|Simulando Uma Conta Bancária Através Do Terminal/Console| [Acesse aqui]()
 
 ## 🔍 Referências 
 - [Digital Innovation One](https://www.dio.me/)
