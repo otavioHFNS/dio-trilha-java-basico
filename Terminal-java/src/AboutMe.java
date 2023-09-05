@@ -6,6 +6,7 @@ public class AboutMe {
         //criando o objeto scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
+        
         System.out.println("Digite seu nome");
         String nome = scanner.next();
         

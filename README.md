@@ -16,9 +16,9 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 |Exercicio 02|Terminal Java | [Acesso aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/Terminal-java)|
 
 ## 👨‍💻 Desafio de Projeto DIO
-|Desafio| Repositório|
-|-------|------------|
-|Simulando Uma Conta Bancária Através Do Terminal/Console| [Acesse aqui]()
+|Desafio| Repositório|Referência|
+|-------|------------|----------|
+|Simulando Uma Conta Bancária Através Do Terminal/Console| [Acesse aqui]()|[🔗Ref](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
 ## 🔍 Referências 
 - [Digital Innovation One](https://www.dio.me/)
