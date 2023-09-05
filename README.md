@@ -10,16 +10,20 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 
 ## 💻 Resumos das Aulas
 
-| Aulas | Desafio| Resumos |
+| Aulas | Desafio| Diretório |
 |-------|---------|---------|
-|Exercicio 01|SmartTv | [Acesso aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/SISTEMA-SMAR-TV)|
-|Exercicio 02|Terminal Java | [Acesso aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/Terminal-java)|
+|Java Sintaxe|Exercício 01 - SmartTv | [Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/SISTEMA-SMAR-TV)|
+|Java Sintaxe|Exercício 02 - Terminal Java | [Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/Terminal-java)|
+|Controle de Fluxo|Exerício 03 - Caixa Eletrônico|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/CaixaEletronico.java)|
+|Controle de Fluxo|Exerício 04 - Resultado Escolar|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/ResultadoEscolar.java)|
+|Controle de Fluxo|Exerício 05 - Sistema de Medida|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/SistemaMedida.java)|
+|Controle de Fluxo|Exerício 06 - Resultado Escolar|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/PlanoOperadora.java)|
 
 ## 👨‍💻 Desafio de Projeto DIO
-|Desafio| Repositório|Referência|
+|Desafio| Repositório|Referências|
 |-------|------------|----------|
 |Simulando Uma Conta Bancária Através Do Terminal/Console| [Acesse aqui]()|[🔗Ref](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
-
+|Sistema para validação de processo Seletivo|[Acesse aqui]()|[🔗Ref]()|
 ## 🔍 Referências 
 - [Digital Innovation One](https://www.dio.me/)
 - [Site Visual Studio Code](https://code.visualstudio.com/)
