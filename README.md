@@ -18,7 +18,7 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 ## 👨‍💻 Desafio de Projeto DIO
 |Desafio| Repositório|Referência|
 |-------|------------|----------|
-|Simulando Uma Conta Bancária Através Do Terminal/Console| [Acesse aqui]()|[🔗Ref](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+|Simulando Uma Conta Bancária Através Do Terminal/Console| [Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/ContaBanco)|[🔗Ref](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
 ## 🔍 Referências 
 - [Digital Innovation One](https://www.dio.me/)
