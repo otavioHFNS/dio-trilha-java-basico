@@ -13,7 +13,7 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 | Aulas | Desafio| Resumos |
 |-------|---------|---------|
 |Exercicio 01|SmartTv | [Acesso aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/SISTEMA-SMAR-TV)|
-|Exercicio 02| | [Acesso aqui]()|
+|Exercicio 02|Terminal Java | [Acesso aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/Terminal-java)|
 
 
 
@@ -21,3 +21,4 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 - [Digital Innovation One](https://www.dio.me/)
 - [Site Visual Studio Code](https://code.visualstudio.com/)
 - [Site Oracle Br](https://www.oracle.com/br/java/)
+- [Gitbook Gleyson Sampaio](https://glysns.gitbook.io/java-basico/)
