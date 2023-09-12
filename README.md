@@ -1,6 +1,6 @@
-# DIO | Trilha Java Básico
+# DIO | Trilha Java Básico ☕
 
-Repositório para exemplos do curso de Java Básico da [Digital Innovation One](https://www.dio.me/), utilizando a IDE (Ambiente de Desenvolvimento Integrado) Visual Studio Code.
+Repositório para exemplos do curso de Java Básico do Bootcamp Santander 2023 oferecido pela [Digital Innovation One](https://www.dio.me/), utilizando a IDE (Ambiente de Desenvolvimento Integrado) Visual Studio Code.
 
 ## 📚 Documentação
 - [Install Visual Studio Code](https://code.visualstudio.com/)
@@ -11,13 +11,14 @@ Repositório para exemplos do curso de Java Básico da [Digital Innovation One](
 ## 💻 Resumos das Aulas
 
 | Aulas | Desafio| Diretório |
-|-------|---------|---------|
+|-------|---------|----------|
 |Java Sintaxe|Exercício 01 - SmartTv | [Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/SISTEMA-SMAR-TV)|
 |Java Sintaxe|Exercício 02 - Terminal Java | [Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/tree/main/Terminal-java)|
-|Controle de Fluxo|Exerício 03 - Caixa Eletrônico|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/CaixaEletronico.java)|
-|Controle de Fluxo|Exerício 04 - Resultado Escolar|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/ResultadoEscolar.java)|
-|Controle de Fluxo|Exerício 05 - Sistema de Medida|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/SistemaMedida.java)|
-|Controle de Fluxo|Exerício 06 - Resultado Escolar|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/PlanoOperadora.java)|
+|Estruturas Condicionais|Exercício 03 - Caixa Eletrônico|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/CaixaEletronico.java)|
+|Estruturas Condicionais|Exercício 04 - Resultado Escolar|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/ResultadoEscolar.java)|
+|Estruturas Condicionais|Exercício 05 - Sistema de Medida|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/SistemaMedida.java)|
+|Estruturas Condicionais|Exercício 06 - Plano Operadora|[Acesse aqui](https://github.com/otavioHFNS/dio-trilha-java-basico/blob/main/ControleFluxo/src/PlanoOperadora.java)|
+|Estruturas de Repetição||[Acesse aqui]()|
 
 ## 👨‍💻 Desafio de Projeto DIO
 |Desafio| Repositório|Referências|
