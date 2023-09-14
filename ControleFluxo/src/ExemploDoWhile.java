@@ -3,7 +3,7 @@
 import java.util.Random;
 public class ExemploDoWhile {
 public static void main(String[] args) {
-	public static void main(String[] args) {
+	
 		System.out.println("Discando...");
 		
 		do {
@@ -19,6 +19,5 @@ public static void main(String[] args) {
 		System.out.println("Atendeu? " + atendeu);
 		//negando o ato de continuar tocando
 		return ! atendeu;
-		}
 	}
 }

@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        //TODO: Conhecer e importar a classe Scanner
+        //Conhecer e importar a classe Scanner
 
         //Obter pela classe scanner os valores digitados no terminal
         
@@ -28,7 +28,7 @@ public class ContaTerminal {
         
         //imprimindo os dados obtidos pelo usuario
         System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso Banco, sua Agência é " + agencia + ", Conta " + numero + ", e o seu Saldo de R$ " + saldo + " já está disponível para Saque");
-        
+        scanner.close();
        
     }
 }
